@@ -1,0 +1,14 @@
+{
+  "name": "redux-pure-lesson",
+  "version": "1.0.0",
+  "main": "src/components/login/container",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start:container": "nodemon src/components/login/container"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "redux": "^4.1.0"
+  }
+}
